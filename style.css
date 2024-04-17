@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'PressStart';
+    src: url(PressStart2P-Regular.ttf);
+}
+
+body {
+
+    h1  {
+        font-family: 'PressStart', sans-serif;
+    }
+}
+
+/*.parallax {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.parallax content-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    pointer-events: none;
+}
